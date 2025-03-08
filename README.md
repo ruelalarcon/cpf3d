@@ -1,4 +1,10 @@
 # cpf3d
+![GitHub Repo stars](https://img.shields.io/github/stars/ruelalarcon/cpf3d)
+![PyPI - License](https://img.shields.io/pypi/l/cpf3d)
+![GitHub top language](https://img.shields.io/github/languages/top/ruelalarcon/cpf3d)
+![PyPI - Version](https://img.shields.io/pypi/v/cpf3d)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/cpf3d)
+![PyPI - Format](https://img.shields.io/pypi/format/cpf3d)
 
 > A python library to read and edit [3cpf](https://github.com/ruelalarcon/3cpf) files. Requires
 > python 3.8.
